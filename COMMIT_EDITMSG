@@ -1,0 +1,10 @@
+Improve alert detection by adjusting thresholds and adding new anomaly patterns
+
+Refactor anomaly detection logic in `ids_service.ts` to include sensitive port access, protocol mismatches, and higher payload size thresholds. Update seed policies in `routes.ts` to reflect these changes and add new policy types.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: dd56b06a-c2f3-4986-9287-55df0cc77c7e
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 086f1d4b-ae53-4c47-a768-7b46a33dba67
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/23dc6624-57a2-494e-9819-02a74fb1a1cc/dd56b06a-c2f3-4986-9287-55df0cc77c7e/vWWddof
+Replit-Helium-Checkpoint-Created: true
